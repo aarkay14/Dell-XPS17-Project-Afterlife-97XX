@@ -17,6 +17,7 @@ Project Goals
 - Support long-term preservation of the XPS 97XX ecosystem
 
 Philosophy
+
 Modern premium laptops are increasingly difficult to repair and preserve once manufacturers discontinue support. XPS17 Afterlife exists to ensure that technical knowledge surrounding the XPS 17 platform remains accessible to enthusiasts, repair technicians, engineers, and future hardware archivists.
 
 Preserve. Document. Rebuild.
